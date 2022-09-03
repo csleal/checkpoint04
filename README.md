@@ -74,3 +74,4 @@ Adicione o link para assistir ao vídeo do projeto funcionando.
 * [Working With JSON Data in Node Red](https://www.youtube.com/watch?v=24ZY3CEsiow)
 * [Node-Red -How to Send Email and SMS Notifications](https://www.youtube.com/watch?v=rokLM4ZsMJQ)
 * [CONTROLE DE SERVO MOTOR VIA SERIAL | Curso de Arduino #211](https://www.youtube.com/watch?v=o2RVatVYCF)
+* [Steve Cope - Node-Red Example Flows](https://stevesnoderedguide.com/node-red-example-flows)
