@@ -1,8 +1,6 @@
 # checkpoint04
 Protótipo de um sistema de identificação IoT, desenvolvido na disciplina de IoT.
 
-# Nome do projeto
-
 **nome dos alunos:**
 
 * Carlos Rithyellen de Souza Leal - RM 89052
@@ -28,6 +26,10 @@ Um segundo fluxo Node-Red subscreve e publica o tópico, e em um DASHBOARD:
 ## Circuito eletrônico
 
 <img src="/circuito.png">
+
+## Dashboard
+
+<img src="/dashboard.png">
 
 ## Diagrama do projeto
 
