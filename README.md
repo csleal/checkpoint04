@@ -17,7 +17,7 @@ Sistema embarcado em uma Raspberry Pi capaz de coletar a identificação da TAG 
 - Notifica o usuário via telegram(Qualquer alteração na posição do servo motor e a leitura da TAG RFID).
 - Notifica via email (Se a umidade estiver abaixo de 50% ou a temperatura estiver acima de 30°C.). 
 
-Um segundo fluxo Node-Red subscreve e publica o tópico, e em um DASHBOARD:
+Um segundo fluxo Node-Red rodando na Cloud da IBM subscreve e publica o tópico, e em um DASHBOARD:
 - exibe o valor da TAG e um registro das ultimas leituras
 - exibe temperatura e umidade
 - controla a posição do servo motor
@@ -61,7 +61,7 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
 
 ## Link de vídeo demonstração
 
-Adicione o link para assistir ao vídeo do projeto funcionando.
+Vídeo de explicação do projeto e funcionamento.
 
 [Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
 
