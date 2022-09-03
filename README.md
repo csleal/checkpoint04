@@ -25,9 +25,9 @@ Um segundo fluxo Node-Red subscreve e publica o tópico, e em um DASHBOARD:
 - controla a posição do servo motor
 - cadastra o email do usuário em um DB(SQLite) para receber alertas de temperatura e umidade
 
-## Circuito eletrõnico
+## Circuito eletrônico
 
-<img src="/circuito.png" width="550">
+<img src="/circuito.png">
 
 ## Diagrama do projeto
 
