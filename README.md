@@ -68,5 +68,9 @@ Adicione o link para assistir ao vídeo do projeto funcionando.
 
 ### Referências 
 
-* [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
-* [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Aulas do Professor Arnaldo](https://arnaldojr.github.io/IoT/)
+* [Como usar com Arduino – KIT RFID MFRC522](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-kit-rfid-mfrc522)
+* [TEMPO SEM DELAY? CONHEÇA O MILLIS!](https://www.youtube.com/watch?v=rkicyLRCkHI)
+* [Working With JSON Data in Node Red](https://www.youtube.com/watch?v=24ZY3CEsiow)
+* [Node-Red -How to Send Email and SMS Notifications](https://www.youtube.com/watch?v=rokLM4ZsMJQ)
+* [CONTROLE DE SERVO MOTOR VIA SERIAL | Curso de Arduino #211](https://www.youtube.com/watch?v=o2RVatVYCF)
