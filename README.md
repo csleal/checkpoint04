@@ -29,6 +29,8 @@ Um segundo fluxo Node-Red rodando na Cloud da IBM subscreve e publica o tópico,
 
 ## Dashboard
 
+https://node-red-fiap.mybluemix.net/ui
+
 <img src="/dashboard.png">
 
 ## Node-Red Flows
