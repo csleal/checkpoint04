@@ -21,7 +21,7 @@ Um segundo fluxo Node-Red rodando na Cloud da IBM subscreve e publica o tópico,
 - exibe o valor da TAG e um registro das ultimas leituras
 - exibe temperatura e umidade
 - controla a posição do servo motor
-- cadastra o email do usuário em um DB(SQLite) para receber alertas de temperatura e umidade
+- Recebe o email do usuário para receber alertas de temperatura e umidade
 
 ## Circuito eletrônico
 
