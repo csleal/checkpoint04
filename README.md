@@ -38,7 +38,9 @@ IBM Cloud            |  Raspberry Pi
 :-------------------------:|:-------------------------:
 ![](/flow-ibm.png)  |  ![](/flow-rasp.png)
 
-## Como usar 
+## Como usar
+
+Monte o sistema conforme o circuito elétrico, carregue o código .ino no arduino
 
 Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
 
