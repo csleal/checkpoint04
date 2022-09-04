@@ -57,8 +57,8 @@ Node-Red IBM cloud
 - [x] Configure a raspberry em [modo headless](https://www.raspberrypi.com/documentation/computers/configuration.html#setting-up-a-headless-raspberry-pi) e instale o node-red conforme a documentação encontrada [aqui](https://nodered.org/docs/getting-started/raspberrypi)
 - [x] Configure uma instância do node-red na cloud da IBM conforme a documentação encontrada [aqui](https://nodered.org/docs/getting-started/ibmcloud)
 - [x] instale os nós necessários
-- [x] Importe o flow (node-red/flows_ibm) na instância node-red na IBM cloud.
-- [x] Importe o flow (node-red/flows_rasp) no node-red da raspberry.
+- [x] Importe o [flows_ibm](node-red/flows_ibm) na instância node-red na IBM cloud.
+- [x] Importe o [flows_rasp](node-red/flows_rasp) no node-red da raspberry.
 
 ## Link de vídeo demonstração
 
