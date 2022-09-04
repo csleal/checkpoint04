@@ -38,31 +38,27 @@ IBM Cloud            |  Raspberry Pi
 :-------------------------:|:-------------------------:
 ![](imagens/flow-ibm.png)  |  ![](imagens/flow-rasp.png)
 
+## Nós necessários:
+
+Node-Red Raspberry
+    
+    node-red-contrib-telegrambot
+    node-red-node-email
+    node-red-node-serialport
+    
+Node-Red IBM cloud
+
+    node-red-dashboard
+
 ## Como usar
-
-Monte o sistema conforme o circuito elétrico, carregue o código .ino no arduino
-
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
-
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
-
-Ou qualquer outra tabulação:
 
 - [x] Monte o sistema conforme o circuito elétrico
 - [x] Carregue o [código](arduino/arduino.ino) .ino no arduino
 - [x] Configure a raspberry em modo headless e instale o node-red conforme a documentação encontrada [aqui](https://nodered.org/docs/getting-started/raspberrypi)
 - [x] Configure uma instância do node-red na cloud da IBM conforme a documentação encontrada [aqui](https://nodered.org/docs/getting-started/ibmcloud)
+- [x] instale os nós necessários
 - [x] Importe o flow (node-red/flows_ibm) na instância node-red na IBM cloud.
 - [x] Importe o flow (node-red/flows_rasp) no node-red da raspberry.
-
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
-
-    cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
-    ls
-
 
 ## Link de vídeo demonstração
 
