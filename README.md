@@ -32,11 +32,9 @@ Um segundo fluxo Node-Red rodando na Cloud da IBM subscreve e publica o tópico,
 <img src="/dashboard.png">
 
 ## Node-Red Flows
-
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
-
-<img src="/flow-ibm.png" width="425"><img src="/flow-rasp.png" width="425">
-
+IBM Cloud            |  Raspberry Pi
+:-------------------------:|:-------------------------:
+![](/flow-ibm.png)  |  ![](/flow-rasp.png)
 
 ## Como usar 
 
