@@ -1,5 +1,5 @@
 # checkpoint04
-Protótipo de um sistema de identificação IoT, desenvolvido na disciplina de IoT.
+Protótipo de um sistema de identificação, desenvolvido na disciplina de IoT.
 
 **nome dos alunos:**
 
@@ -31,7 +31,7 @@ Um segundo fluxo Node-Red rodando na Cloud da IBM subscreve e publica o tópico,
 
 <img src="/dashboard.png">
 
-## Diagrama do projeto
+## Node-Red Flows
 
 Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
 
