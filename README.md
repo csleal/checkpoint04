@@ -62,9 +62,9 @@ Node-Red IBM cloud
 
 ## Link de vídeo demonstração
 
-Vídeo de explicação do projeto e funcionamento.
+Vídeo do projeto e funcionamento.
 
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[Link para o video youtube](https://youtu.be/W0sOezGxFmk)
 
 
 ### Referências 
