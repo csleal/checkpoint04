@@ -25,18 +25,18 @@ Um segundo fluxo Node-Red rodando na Cloud da IBM subscreve e publica o tópico,
 
 ## Circuito eletrônico
 
-<img src="/circuito.png">
+<img src="imagens/circuito.png">
 
 ## Dashboard
 
 [Demo do Dashboard](https://node-red-fiap.mybluemix.net/ui)
 
-<img src="/dashboard.png">
+<img src="imagens/dashboard.png">
 
 ## Node-Red Flows
 IBM Cloud            |  Raspberry Pi
 :-------------------------:|:-------------------------:
-![](/flow-ibm.png)  |  ![](/flow-rasp.png)
+![](imagens/flow-ibm.png)  |  ![](imagens/flow-rasp.png)
 
 ## Como usar
 
